@@ -1,0 +1,8 @@
+streamlit
+pymupdf
+scikit-learn
+nltk
+requests
+python-docx
+pandas
+plotly
